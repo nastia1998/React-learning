@@ -10,3 +10,5 @@ class Info extends React.Component {
         );
     }
 }
+
+export default Info;
